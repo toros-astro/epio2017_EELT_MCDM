@@ -1,2 +1,3 @@
-# epio_resumen
-Resumen para epio 2017
+# EPIO Resumen
+
+Vamos haciendo en markdown por que el template es un horroroso word
