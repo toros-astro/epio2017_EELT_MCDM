@@ -62,7 +62,6 @@ target/
 _bin/
 setuptools-*.zip
 
-*.ipynb
 *.db
 
 tests/migrations/versions/*.py[cod]
