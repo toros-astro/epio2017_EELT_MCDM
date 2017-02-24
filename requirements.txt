@@ -38,7 +38,7 @@ Pygments==2.2.0
 pyparsing==2.1.10
 pyzmq==16.0.2
 scandir==1.4
--e git+https://github.com/leliel12/scikit-criteria.git@master#egg=scikit_criteria
+scikit_criteria==0.2.1
 scipy==0.18.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
