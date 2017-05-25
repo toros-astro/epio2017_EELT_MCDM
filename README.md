@@ -2,10 +2,15 @@
 
 **Presented on EPIO 2017**
 
-Data and experiments
-
 ## Authors
 
-Juan B Cabral – Bruno O Sanchez – Manuel Starck Cuffini
-Instituto de Astronomía Teórica y Experimental
-jbcabral@oac.unc.edu.ar - bruno@oac.unc.edu.ar - mstarck@oac.unc.edu.ar
+- Juan B Cabral – Bruno O Sanchez – Manuel Starck Cuffini
+- Instituto de Astronomía Teórica y Experimental
+- jbcabral@oac.unc.edu.ar - bruno@oac.unc.edu.ar - mstarck@oac.unc.edu.ar
+
+## Files
+
+- [Data](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/ELT-Criteria%20-%20Hoja%201.csv)
+- [Experiment](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/EPIO%20Experiment.ipynb)
+
+
