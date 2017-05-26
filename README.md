@@ -10,7 +10,7 @@
 
 ## Files
 
-- [Data](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/ELT-Criteria%20-%20Hoja%201.csv)
-- [Experiment](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/EPIO%20Experiment.ipynb)
+- [Data](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/sites.csv)
+- [Experiment](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/experiment.ipynb)
 
 
