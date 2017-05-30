@@ -25,7 +25,7 @@ or if you prefere the [BibText](http://www.bibtex.org)
 
 ``` bibtext
 @INPROCEEDINGS {juanbcabralbrunoosanchezmanuelstarckcuffini2017,
-    author    = "JUAN B CABRAL , BRUNO O SANCHEZ ,  MANUEL STARCK CUFFINI",
+    author    = "Cabral, J and Sanchez, B and Stark Cuffini, M",
     title     = "SELECCIÓN DE SITIO PARA EUROPEAN EXTREMELY LARGE TELESCOPE. UNA COMPARACIÓN ENTRE LA SELECCIÓN REAL Y SUGERENCIAS DE MÉTODOS DECISIÓN MULTICRITERIO",
     booktitle = "Anales XXX Encuentro Nacional de Docentes de Investigación Operativa y XXVIII Escuela de Perfeccionamiento de Investigación Operativa",
     year      = "2017",
