@@ -12,6 +12,7 @@
 
 - [Data](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/sites.csv)
 - [Experiment](https://github.com/toros-astro/epio2017_EELT_MCDM/blob/master/experiment.ipynb)
+- [Paper](https://github.com/toros-astro/epio2017_EELT_MCDM/raw/master/paper_en.pdf)
 
 ## Citation
 
