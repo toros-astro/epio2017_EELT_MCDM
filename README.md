@@ -18,7 +18,7 @@
 
 If you are using this data or publication in your research, please cite:
 
-> JUAN B CABRAL, MANUEL STARCK CUFFINI, BRUNO O SANCHEZ 2017SELECCIÓN DE SITIO PARA EUROPEAN EXTREMELY LARGE ℡ESCOPE. UNA COMPARACIÓN ENTRE LA SELECCIÓN REAL Y SUGERENCIAS DE MÉTODOS DECISIÓN MULTICRITERIO. In Anales XXX Encuentro Nacional de Docentes de Investigación Operativa Y XXVIII Escuela de Perfecionamiento de Investigación Operativa. Escuela de Perfecionamiento de Investigación Operativa, ed. Pp. 225–226. Tandil, Bs. As, Argentina.
+> JUAN B CABRAL, MANUEL STARCK CUFFINI, BRUNO O SANCHEZ 2017SELECCIÓN DE SITIO PARA EUROPEAN EXTREMELY LARGE ℡ESCOPE. UNA COMPARACIÓN ENTRE LA SELECCIÓN REAL Y SUGERENCIAS DE MÉTODOS DECISIÓN MULTICRITERIO. In Anales XXX Encuentro Nacional de Docentes de Investigación Operativa Y XXVIII Escuela de Perfeccionamiento de Investigación Operativa. Escuela de Perfeccionamiento de Investigación Operativa, ed. Pp. 225–226. Tandil, Bs. As, Argentina.
 
 
 or if you prefere the [BibText](http://www.bibtex.org)
@@ -27,9 +27,9 @@ or if you prefere the [BibText](http://www.bibtex.org)
 @INPROCEEDINGS {juanbcabralbrunoosanchezmanuelstarckcuffini2017,
     author    = "JUAN B CABRAL , BRUNO O SANCHEZ ,  MANUEL STARCK CUFFINI",
     title     = "SELECCIÓN DE SITIO PARA EUROPEAN EXTREMELY LARGE TELESCOPE. UNA COMPARACIÓN ENTRE LA SELECCIÓN REAL Y SUGERENCIAS DE MÉTODOS DECISIÓN MULTICRITERIO",
-    booktitle = "Anales XXX Encuentro Nacional de Docentes de Investigación Operativa y XXVIII Escuela de Perfecionamiento de Investigación Operativa",
+    booktitle = "Anales XXX Encuentro Nacional de Docentes de Investigación Operativa y XXVIII Escuela de Perfeccionamiento de Investigación Operativa",
     year      = "2017",
-    editor    = "Escuela de Perfecionamiento de Investigación Operativa",
+    editor    = "Escuela de Perfeccionamiento de Investigación Operativa",
     pages     = "225-226",
     address   = "Tandil, Bs. As, Argentina",
     month     = "may"
